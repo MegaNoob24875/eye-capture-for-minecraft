@@ -1,6 +1,7 @@
 РУССКИЙ:
 - ВАЖНО -
  перед запуском скрипта, нужно скачать эти библиотеки:
+Питон(Пайтон) версия 3.10.0 писалось и тестировалось в программе py charm 2025.2.2
 pip install opencv-python
 pip install mediapipe
 pip install numpy
@@ -18,6 +19,7 @@ collections - встроенная библиотека Python (использу
 English:
 - IMPORTANT -
  before running the script, you need to download these libraries:
+Python version 3.10.0 written and tested in the py charm 2025.2.2 program
 pip install opencv-python
 pip install mediapipe
 pip install numpy
@@ -26,3 +28,4 @@ time - built-in Python library for working with time
 collections - built-in Python library (deque is used)
  IF YOU LOOK DOWN TOO MUCH, THE SCREEN WILL CONSIDER IT AS A BLINK!
 Also, before running the script, set the keyboard layout to English, otherwise the script will not press the q key when you blink.
+
